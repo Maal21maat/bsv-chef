@@ -1,0 +1,4 @@
+1. `sudo mongod --port 27017 --dbpath data/db` from the root folder 
+2. `python3.10 -m main` from the *backend* folder.
+
+`python3.10 -m pytest -m unit`
